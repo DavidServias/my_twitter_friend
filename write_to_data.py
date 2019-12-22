@@ -33,7 +33,10 @@ data["replies"] = [
     "This is AWESOME!",
     "I live for your tweets!!!",
     "Better than a jab in the eye...!",
-    
+    "Awesome sauce!",
+    "Cool beans!",
+    "YOLO!",
+
 
 ]
 # ######################################################

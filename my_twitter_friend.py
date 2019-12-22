@@ -106,6 +106,7 @@ def run_process():
             error_tweet = "I think something went wrong. I may not like any tweets "
             error_tweet += " for awhile until I can figure this out."
             api.update_status(error_tweet)
+            continue
 
 
 # follow_new_followers(api)
@@ -113,5 +114,5 @@ def run_process():
 # reply_to_mentions()
 run_process()
 
-
+# push test
 
